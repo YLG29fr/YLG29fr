@@ -1,7 +1,7 @@
-- Hello, I’m @YLG29fr
+- Hello, I’m Nif - @YLG29fr
 
-- 🌱 I’m currently learning web developpement
-- 📫 You can contact me through Git atm
+- 🌱 Web developer
+- 📫 You can contact me through LinkedIn
 
 
 <!---
